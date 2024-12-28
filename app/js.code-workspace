@@ -1,0 +1,50 @@
+{
+	"folders": [
+		{
+			"path": "../../../js"
+		},
+		{
+			"path": "../../../backendtest"
+		},
+		{
+			"path": "../../../dulieulinhtinh"
+		},
+		{
+			"path": "C:/Users/PC/Desktop/docker"
+		},
+		{
+			"path": "../../../discord create"
+		},
+		{
+			"path": "../../../clinic-management"
+		},
+		{
+			"path": "../../../client-manager developer/clinic-management"
+		},
+		{
+			"path": "../../../test c++ js"
+		},
+		{
+			"path": "../../../test prj/Clinic-Management"
+		},
+		{
+			"path": "../../../prj full stack react and node"
+		},
+		{
+			"path": "../../../AI youtube/ng-video-lecture"
+		},
+		{
+			"path": "../../../discord data set"
+		},
+		{
+			"path": "../../../ai prj"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "backendtest",
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
